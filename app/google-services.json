@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336616513253",
+    "project_id": "gpa-app-6d9cc",
+    "storage_bucket": "gpa-app-6d9cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336616513253:android:e77fc95ce77d3d22d8be0c",
+        "android_client_info": {
+          "package_name": "com.sandipawale.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336616513253-7v5pit36g0v2tkbajpcjtim1qdf2l0ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzzXzMAA6B3w6vRfWKfQeVMkgBS-Ss3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336616513253-7v5pit36g0v2tkbajpcjtim1qdf2l0ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
